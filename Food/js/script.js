@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
     showTabContent();
 
     //setTimer
-    const deadline = '2021-07-08';
+    const deadline = '2021-09-01';
 
     function getTimeRemaining(endtime) {
         const t = Date.parse(endtime) - Date.parse(new Date()),
